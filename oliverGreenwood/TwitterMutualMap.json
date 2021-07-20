@@ -1,0 +1,314 @@
+{
+    "nodes": [
+        {
+            "username": "MCChampionship_", 
+            "followers": 1.139006, 
+            "id": "1171833930095517699", 
+            "name": "MC Championship"
+        }, 
+        {
+            "username": "boburnham", 
+            "followers": 2.064326, 
+            "id": "17587207", 
+            "name": "Bo Burnham"
+        }, 
+        {
+            "username": "Ranboosaysstuff", 
+            "followers": 1.949792, 
+            "id": "1222961028926824450", 
+            "name": "Ranboo"
+        }, 
+        {
+            "username": "ranaltboo", 
+            "followers": 1.312992, 
+            "id": "1344189615134003201", 
+            "name": "Ranbalt"
+        }, 
+        {
+            "username": "benawad", 
+            "followers": 0.06712599999999999, 
+            "id": "840626569743912960", 
+            "name": "Ben Awad"
+        }, 
+        {
+            "username": "goodguyfitz", 
+            "followers": 1.2883499999999999, 
+            "id": "2986471820", 
+            "name": "Fitz"
+        }, 
+        {
+            "username": "CasuallyE", 
+            "followers": 0.104947, 
+            "id": "4663789826", 
+            "name": "Casually Explained"
+        }, 
+        {
+            "username": "dreamwastaken", 
+            "followers": 1.643884, 
+            "id": "1269132220725411842", 
+            "name": "dream"
+        }, 
+        {
+            "username": "brine375", 
+            "followers": 1e-06, 
+            "id": "1334784726041825281", 
+            "name": "Brine375"
+        }, 
+        {
+            "username": "Technothepig", 
+            "followers": 2.771449, 
+            "id": "2413696970", 
+            "name": "Technoblade"
+        }, 
+        {
+            "username": "elonmusk", 
+            "followers": 58.339999, 
+            "id": "44196397", 
+            "name": "Elon Musk"
+        }, 
+        {
+            "username": "ThrasherDan", 
+            "followers": 0.053113999999999995, 
+            "id": "32254187", 
+            "name": "daniel thrasher"
+        }, 
+        {
+            "username": "theodd1sout", 
+            "followers": 1.8713529999999998, 
+            "id": "1537083344", 
+            "name": "TheOdd1sOut"
+        }, 
+        {
+            "username": "golang", 
+            "followers": 0.119972, 
+            "id": "113419064", 
+            "name": "Go"
+        }, 
+        {
+            "username": "reactjs", 
+            "followers": 0.497807, 
+            "id": "1566463268", 
+            "name": "React"
+        }, 
+        {
+            "username": "typescript", 
+            "followers": 0.179109, 
+            "id": "809233214", 
+            "name": "TypeScript"
+        }, 
+        {
+            "username": "nodejs", 
+            "followers": 0.724501, 
+            "id": "91985735", 
+            "name": "Node.js"
+        }, 
+        {
+            "username": "Apple", 
+            "followers": 6.518107, 
+            "id": "380749300", 
+            "name": "Apple"
+        }, 
+        {
+            "username": "BillGates", 
+            "followers": 55.201128, 
+            "id": "50393960", 
+            "name": "Bill Gates"
+        }, 
+        {
+            "username": "code_bullet", 
+            "followers": 0.03589, 
+            "id": "1011536488272498689", 
+            "name": "Code Bullet"
+        }, 
+        {
+            "username": "BrackeysTweet", 
+            "followers": 0.047663, 
+            "id": "974067084", 
+            "name": "Brackeys"
+        }, 
+        {
+            "username": "EvaWils00616504", 
+            "followers": 1e-06, 
+            "id": "1289925353885110278", 
+            "name": "EvaWilson"
+        }, 
+        {
+            "username": "3blue1brown", 
+            "followers": 0.241981, 
+            "id": "2877269376", 
+            "name": "Grant Sanderson"
+        }, 
+        {
+            "username": "_LivePython", 
+            "followers": 0.002389, 
+            "id": "1155237410864807936", 
+            "name": "Live Python"
+        }, 
+        {
+            "username": "LTLICKME", 
+            "followers": 0.07250999999999999, 
+            "id": "2177193930", 
+            "name": "LT.LICKME"
+        }, 
+        {
+            "username": "DaniDevYT", 
+            "followers": 0.071674, 
+            "id": "1024744174795587589", 
+            "name": "Dani"
+        }, 
+        {
+            "username": "bigrando420", 
+            "followers": 0.009322, 
+            "id": "828032731023937536", 
+            "name": "Randy"
+        }, 
+        {
+            "username": "OpenAI", 
+            "followers": 0.583815, 
+            "id": "4398626122", 
+            "name": "OpenAI"
+        }, 
+        {
+            "username": "Sentdex", 
+            "followers": 0.033576999999999996, 
+            "id": "1401204486", 
+            "name": "Harrison Kinsley"
+        }, 
+        {
+            "username": "TechWithTimm", 
+            "followers": 0.008494999999999999, 
+            "id": "1026568384840777728", 
+            "name": "Tech With Tim"
+        }, 
+        {
+            "username": "michaelreeves", 
+            "followers": 1.342566, 
+            "id": "826288847562559488", 
+            "name": "Michael Reeves"
+        }, 
+        {
+            "username": "Dream", 
+            "followers": 3.843156, 
+            "id": "183905912", 
+            "name": "Dream"
+        }
+    ], 
+    "links": [
+        {
+            "source": "1171833930095517699", 
+            "target": "1222961028926824450"
+        }, 
+        {
+            "source": "1171833930095517699", 
+            "target": "183905912"
+        }, 
+        {
+            "source": "1171833930095517699", 
+            "target": "2413696970"
+        }, 
+        {
+            "source": "1222961028926824450", 
+            "target": "1344189615134003201"
+        }, 
+        {
+            "source": "1222961028926824450", 
+            "target": "1269132220725411842"
+        }, 
+        {
+            "source": "1222961028926824450", 
+            "target": "183905912"
+        }, 
+        {
+            "source": "1222961028926824450", 
+            "target": "2413696970"
+        }, 
+        {
+            "source": "1222961028926824450", 
+            "target": "2986471820"
+        }, 
+        {
+            "source": "1344189615134003201", 
+            "target": "1269132220725411842"
+        }, 
+        {
+            "source": "840626569743912960", 
+            "target": "1026568384840777728"
+        }, 
+        {
+            "source": "2986471820", 
+            "target": "183905912"
+        }, 
+        {
+            "source": "2986471820", 
+            "target": "826288847562559488"
+        }, 
+        {
+            "source": "2986471820", 
+            "target": "2413696970"
+        }, 
+        {
+            "source": "2986471820", 
+            "target": "1537083344"
+        }, 
+        {
+            "source": "2986471820", 
+            "target": "2177193930"
+        }, 
+        {
+            "source": "4663789826", 
+            "target": "1537083344"
+        }, 
+        {
+            "source": "1269132220725411842", 
+            "target": "1537083344"
+        }, 
+        {
+            "source": "1269132220725411842", 
+            "target": "2413696970"
+        }, 
+        {
+            "source": "1269132220725411842", 
+            "target": "183905912"
+        }, 
+        {
+            "source": "2413696970", 
+            "target": "183905912"
+        }, 
+        {
+            "source": "2413696970", 
+            "target": "1537083344"
+        }, 
+        {
+            "source": "32254187", 
+            "target": "826288847562559488"
+        }, 
+        {
+            "source": "32254187", 
+            "target": "1537083344"
+        }, 
+        {
+            "source": "1537083344", 
+            "target": "183905912"
+        }, 
+        {
+            "source": "1537083344", 
+            "target": "826288847562559488"
+        }, 
+        {
+            "source": "1566463268", 
+            "target": "91985735"
+        }, 
+        {
+            "source": "1011536488272498689", 
+            "target": "826288847562559488"
+        }, 
+        {
+            "source": "1155237410864807936", 
+            "target": "1026568384840777728"
+        }, 
+        {
+            "source": "1024744174795587589", 
+            "target": "826288847562559488"
+        }
+    ]
+}
