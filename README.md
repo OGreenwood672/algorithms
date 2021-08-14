@@ -4,7 +4,7 @@ A website using react and p5.js to showcase algorithms which I have created.
 
 <h2>Twitter Map</h2>
 <p>I have also created a map to show the communities on Twitter.</p>
-<a href="https://ogreenwood672.github.io/algorithms/#/twitter/verified/2d">Link To Twitter Map</a>
+<a href="https://ogreenwood672.github.io/algorithms/#/twitter/verified/2d">Link To Twitter Map</a> <p>Reccomend Large Screen</p>
 
 <p>If you are unable to load map due to any reason, you can view the images shown below</p>
 
